@@ -1,0 +1,20 @@
+2023-12-28 00:14:15.294478+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENT" not found (this database is empty); SQL statement:
+insert into department (department_address,department_code,department_name,department_id) values (?,?,?,default) [42104-224]
+2023-12-28 00:16:07.751618+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DEPARTMENT" not found (this database is empty); SQL statement:
+insert into department (department_address,department_code,department_name,department_id) values (?,?,?,default) [42104-224]
+2023-12-28 00:18:19.059233+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-28 00:19:10.653941+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2023-12-28 00:19:24.486632+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 22:09:51.845803+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 22:10:47.698867+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 22:13:10.229165+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 22:16:41.255860+03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
